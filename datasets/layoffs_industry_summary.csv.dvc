@@ -1,0 +1,5 @@
+outs:
+- md5: 1db997786e7f6890f0e62dbbe386b0ca
+  size: 940
+  hash: md5
+  path: layoffs_industry_summary.csv

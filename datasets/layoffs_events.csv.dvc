@@ -1,0 +1,5 @@
+outs:
+- md5: 299ee0ac0d565ecfa8b0b119b07ccf6c
+  size: 593850
+  hash: md5
+  path: layoffs_events.csv

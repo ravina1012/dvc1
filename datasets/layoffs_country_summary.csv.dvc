@@ -1,0 +1,5 @@
+outs:
+- md5: a59060edcea9b6edf4ac7e65a0476b9d
+  size: 1150
+  hash: md5
+  path: layoffs_country_summary.csv

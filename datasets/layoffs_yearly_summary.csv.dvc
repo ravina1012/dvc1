@@ -1,0 +1,5 @@
+outs:
+- md5: b7daf013a1f1ec4a7f312c36e9f74724
+  size: 272
+  hash: md5
+  path: layoffs_yearly_summary.csv
